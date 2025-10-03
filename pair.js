@@ -43,9 +43,9 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb5OiseHltY10IBkF112/1433'
 };
 
-const octokit = new Octokit({ auth: 'github_pat_11BRMIQHA0k6uStn36_zlZ6phRlTYUGz3jYxvjTOq3Q3garZHYDhuIXHK2IcpVQCTUH7INw1ZZhR9z' });
-const owner = 'sulamadara117';
-const repo = 'session';
+const octokit = new Octokit({ auth: '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' });
+const owner = 'tfiddjdsiejkdsk';
+const repo = 'ejjdjedididifdrjfjdj';
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
